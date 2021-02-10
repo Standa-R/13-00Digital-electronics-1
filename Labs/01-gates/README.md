@@ -10,7 +10,7 @@
 | 1 | 0 | 0 | 6 |
 | 1 | 0 | 1 | 7 |
 | 1 | 1 | 0 | 8 |
-| 1 | 1 | 1 | 9 |
+| 1 | 1 | 1 | 0 |
 
 
 ![De Morgan's law simulation](Images/simFdemor.png)
