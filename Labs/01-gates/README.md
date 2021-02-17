@@ -14,3 +14,6 @@
 
 
 ![De Morgan's law simulation](Images/simFdemor.png)
+
+
+asdads
